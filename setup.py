@@ -11,7 +11,7 @@ from pathlib import Path
 from setuptools import setup
 
 
-NAME = 'demucs'
+NAME = 'demucs-simple'
 DESCRIPTION = 'Music source separation in the waveform domain.'
 
 URL = 'https://github.com/facebookresearch/demucs'
